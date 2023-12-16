@@ -5,6 +5,6 @@
   </head>
   <body>
     <p>Monginis Site </p>
-    <a href="monginisesite" target="_blank">Monginis Site</a>
+    <a href="./monginisesite" target="_blank">Monginis Site</a>
   </body>
 </html>
